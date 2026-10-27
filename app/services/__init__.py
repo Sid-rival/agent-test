@@ -1,0 +1,1 @@
+"""Service layer package (chunker, embeddings, llm, security)."""
